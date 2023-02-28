@@ -6,15 +6,25 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-        <lastBuildDate>Sun, 26 Feb 2023 08:23:37 +1030</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 00:00:00 +0000</lastBuildDate>
         <atom:link href="https://greengypsy.github.io/my-eight-week-challenge/posts/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
+            <title>Monday - Week 1</title>
+            <link>https://greengypsy.github.io/my-eight-week-challenge/posts/week-1/monday-week-1/</link>
+            <pubDate>Mon, 27 Feb 2023 00:00:00 +0000</pubDate>
+            
+            <guid>https://greengypsy.github.io/my-eight-week-challenge/posts/week-1/monday-week-1/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
+        
+        <item>
             <title>Pre Challenge Prep</title>
-            <link>https://greengypsy.github.io/my-eight-week-challenge/posts/2023/02/pre-challenge-prep/</link>
+            <link>https://greengypsy.github.io/my-eight-week-challenge/posts/pre-challenge/pre-challenge-prep/</link>
             <pubDate>Sun, 26 Feb 2023 08:23:37 +1030</pubDate>
             
-            <guid>https://greengypsy.github.io/my-eight-week-challenge/posts/2023/02/pre-challenge-prep/</guid>
+            <guid>https://greengypsy.github.io/my-eight-week-challenge/posts/pre-challenge/pre-challenge-prep/</guid>
             <description></description>
             <content type="html"><![CDATA[]]></content>
         </item>
