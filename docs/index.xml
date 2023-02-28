@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hello Friend NG</title>
+    <title>My eight week challenge</title>
     <link>https://greengypsy.github.io/my-eight-week-challenge/</link>
-    <description>Recent content on Hello Friend NG</description>
+    <description>Recent content on My eight week challenge</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Mon, 27 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://greengypsy.github.io/my-eight-week-challenge/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Monday - Week 1</title>
@@ -18,12 +17,32 @@
     </item>
     
     <item>
+      <title>Tuesday - Week 1</title>
+      <link>https://greengypsy.github.io/my-eight-week-challenge/posts/week-1/tuesday-week-1/</link>
+      <pubDate>Mon, 27 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://greengypsy.github.io/my-eight-week-challenge/posts/week-1/tuesday-week-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Pre Challenge Prep</title>
       <link>https://greengypsy.github.io/my-eight-week-challenge/posts/pre-challenge/pre-challenge-prep/</link>
       <pubDate>Sun, 26 Feb 2023 08:23:37 +1030</pubDate>
       
       <guid>https://greengypsy.github.io/my-eight-week-challenge/posts/pre-challenge/pre-challenge-prep/</guid>
-      <description></description>
+      <description>Fitness testing On Saturday, I went down to Grange Jetty to complete some fitness testing prior to the eight week challenge. The fitness testing included:
+1 minute of push ups. 1 minute of sit ups. A beach run from Grange Jetty to Henley Jetty and back. I was a bit worried about the run, as my aerobic capacity is not the greatest. But I got through it in a time of 28:42.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://greengypsy.github.io/my-eight-week-challenge/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://greengypsy.github.io/my-eight-week-challenge/about/</guid>
+      <description>Who am I? G&amp;rsquo;day folks! I&amp;rsquo;m Christina and I&amp;rsquo;m a business analyst by day, technical writer by night.
+What is this blog about? I&amp;rsquo;ve decided to take part in Prana Athletica&amp;rsquo;s eight week challenge to improve my fitness and overall health. I also want to improve my understanding of how websites are created, given how fundamental it is to my jobs. So I&amp;rsquo;ve also decided to create a website blog to keep myself accountable throughout the eight weeks.</description>
     </item>
     
   </channel>

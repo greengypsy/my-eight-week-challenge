@@ -1,19 +1,13 @@
 +++
 title = "About"
-date = "2014-04-09"
-aliases = ["about-us","about-hugo","contact"]
+date = "2023-26-02"
+aliases = ["about-us","about-me","contact"]
 [ author ]
-  name = "Hugo Authors"
+  name = "Christina Kumar"
 +++
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+## Who am I?
+G'day folks! I'm Christina and I'm a business analyst by day, technical writer by night. 
 
-It makes use of a variety of open source projects including:
-
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+## What is this blog about?
+I've decided to take part in [Prana Athletica's](https://pranaathletica.com.au/) eight week challenge to improve my fitness and overall health. I also want to improve my understanding of how websites are created, given how fundamental it is to my jobs. So I've also decided to create a website blog to keep myself accountable throughout the eight weeks. 

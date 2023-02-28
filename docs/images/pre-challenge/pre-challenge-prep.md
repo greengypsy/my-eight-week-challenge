@@ -21,6 +21,7 @@ I celebrated my run with an oat milk latte from Grange Jetty and am looking forw
 
 ![Mel, me and Lisa at Grange Jetty cafe](/images/pre-challenge/grange-jetty-testing-coffee.jpg)
 
+
 ## Body scan
 
 
