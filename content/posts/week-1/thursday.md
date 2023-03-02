@@ -1,8 +1,8 @@
 ---
 slug: "week-1"
 week: "Week 1"
-title: "Wednesday, Day 3"
-date: 2023-03-01
+title: "Thursday, Day 4"
+date: 2023-03-02
 draft: false
 toc: true
 author: "Christina Kumar"
@@ -26,7 +26,7 @@ Here's what I ate today:
 
 - Breakfast: One scrambled egg mixed with ricotta yet again.
 - Lunch: The lean mince, cabbage, capsicum and mushroom dish repeated with some cauliflower from last nigh and a side of salmon sashimi.
-- Dinner: Cajun spiced chicken breast 
+- Dinner: Cajun spiced chicken breast with asparagus.
 - Snacks: 
     - Half a banana sliced up with peanut butter on each slice.
     - An oat milk mocha. Pretty sure that wasn't in the meal plan but oh well...
