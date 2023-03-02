@@ -22,7 +22,7 @@ Speed involved 50 calorie sprints and then some rest equal to the time you took 
 
 Lift was alright but I was so hungry after. I think I might have to consider upping my protein intake but I'll see where I'm at later in the week and readjust.
 
-<a href="tuesday.md#reference" style="margin:0;">Go back to Table of Contents</a>
+<a href="wednesday.md#reference" style="margin:0;">Go back to Table of Contents</a>
 
 ## Food
 Here's what I ate today:
@@ -39,4 +39,4 @@ Here's what I ate today:
 
 I fear that I snacked too much today and ate too much peanut butter :(. Given that I've packed the extra cauliflower tomorrow which has peanut butter, I might skip my beloved banana with peanut butter tomorrow and just have the banana. 
 
-<a href="tuesday.md#reference">Go back to Table of Contents</a>
+<a href="wednesday.md#reference">Go back to Table of Contents</a>
