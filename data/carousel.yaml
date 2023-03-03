@@ -1,0 +1,9 @@
+images: 
+  - image: /images/pre-challenge/breakfast-prep.jpg
+    content_html: "1"
+  - image: /images/pre-challenge/community-run-pre-challenge.jpg
+    content_html: "2"
+  - image: /images/pre-challenge/grange-jetty-testing-coffee.jpg
+    content_html: "3"
+  - image: /images/pre-challenge/lunch.jpg
+    content_html: "4"

@@ -6,7 +6,14 @@ date: 2023-03-01
 draft: false
 toc: true
 author: "Christina Kumar"
-images:
+images: ["/images/week-1/wednesday/brekkie-egg-ricotta-toast.jpg",
+"/images/week-1/wednesday/lunch-cabbage-mince-asparagus.jpg",
+"/images/week-1/wednesday/dinner-lamb-shank-broth.jpg",
+"/images/week-1/wednesday/snack-banana-peanut-butter.jpg",
+"/images/week-1/wednesday/snack-beef-burger-soba-noodles.jpg",
+"/images/week-1/wednesday/snack-cauliflower.jpg",
+"/images/week-1/wednesday/snack-soba-noodles.jpg",
+"/images/week-1/wednesday/snack-yoghurt-berries.jpg"]
 tags:
   - "week-1"
   - "challenge-series"
@@ -32,7 +39,7 @@ Here's what I ate today:
 - Dinner: Lamb shanks with broth again.
 - Snacks: 
     - A full banana sliced up with peanut butter on each slice.
-    - Some YoPro high protein yoghurt with a few blueberries.
+    - Some YoPro high protein yoghurt with a few berries.
     - Some roasted cauliflower with peanut butter and olive oil. 
     - A little piece of beef burger meat with some soba noodles with chilli-infused oil and soy sauce as I was still hungry after Lift.
     - Some more soba noodles with chilli-infused oil and soy sauce as I was still hungry after the burger.

@@ -6,7 +6,8 @@ date: 2023-03-02
 draft: false
 toc: true
 author: "Christina Kumar"
-images:
+images: ["/images/pre-challenge/breakfast-prep.jpg", "/images/pre-challenge/community-run-pre-challenge.jpg", "/images/pre-challenge/grange-jetty-testing-coffee.jpg"]
+
 tags:
   - "week-1"
   - "challenge-series"

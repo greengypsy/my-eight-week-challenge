@@ -1,0 +1,34 @@
+{{ .context.Scratch.Set "height" .height }}
+{{ .context.Scratch.Set "unit" .unit }}
+{{ .context.Scratch.Set "items" .items }}
+
+
+
+<div id="carousel10" class="carousel" duration="{{ .duration }}" items="{{ .items }}">
+    <ul>
+        <!--{{ range $index, $slide := .context.Site.Data.carousel.images }}
+          <li id="c10_slide{{ add $index 1}}" style="width: 35em; height: 35em;"><img src="{{ $slide.image }}" alt="" /><div><div style="display:block;">{{ $slide.content_html }}</div></div></li>
+        {{ end }}-->
+        
+        {{ range $index, $slide := .context.Params.images }}
+          {{ $counter := add $index 1 }}         
+          <li id="c10_slide{{ add $index 1}}" style="width: 35em; height: 40em;">
+           
+            <img class="carousel-image" src="{{ $slide }}" alt="">           
+            <div>
+              <div style="display:none">{{ $counter }}</div>
+            </div>
+          </li>
+        {{ end }}
+    </ul>
+    <ol>
+      <!--{{ range $index, $page := .context.Site.Data.carousel.images }}
+        <li><a href="#c10_slide{{ add $index 1 }}"></a></li>
+      {{ end }}-->
+      {{ range $index, $page := .context.Params.images }}
+        <li><a href="#c10_slide{{ add $index 1 }}"></a></li>
+      {{ end }}
+    </ol>
+    <div class="prev">&lsaquo;</div>
+    <div class="next">&rsaquo;</div>
+</div>

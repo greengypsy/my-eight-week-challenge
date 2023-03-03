@@ -6,7 +6,9 @@ date: 2023-02-28
 draft: false
 toc: true
 author: "Christina Kumar"
-images:
+images: ["/images/week-1/tuesday/brekkie-eggs-ricotta-toast.jpg",
+"/images/week-1/tuesday/lunch-cabbage-rice-mince.jpg","/images/week-1/tuesday/dinner-lamb-shank-broth-asparagus.jpg",
+"/images/week-1/tuesday/snack-yoghurt-blueberries.jpg"]
 tags:
   - "week-1"
   - "challenge-series"
@@ -23,10 +25,10 @@ Today, I had a kickboxing PT session (45min) with coach Darian at Prana. It's ha
 Here's what I ate today:
 
 - Breakfast: One scrambled egg mixed with ricotta.
-- Lunch: The lean mince, cabbage, capsicum and mushroom dish again
+- Lunch: The lean mince, cabbage, capsicum and mushroom dish again.
 - Dinner: Lamb shanks with broth again with some asparagus.
 - Snacks: 
-    - A full banana sliced up with peanut butter on each slice.
+    - A full banana sliced up with peanut butter on each slice (pre-workout snack).
     - Some YoPro high protein yoghurt with a few blueberries. 
 
 <a href="tuesday.md#reference">Go back to Table of Contents</a>

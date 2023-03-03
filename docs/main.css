@@ -1,0 +1,21 @@
+img {
+    height: 20em;
+}
+
+table {
+    background-color: white;
+}
+
+th {
+    display: grid;
+    justify-content: center;
+}
+
+tr {
+    display: grid;
+    justify-content: center;
+}
+
+h2 {
+    margin-top: 1em !important;
+}

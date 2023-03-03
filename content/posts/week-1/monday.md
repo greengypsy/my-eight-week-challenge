@@ -6,7 +6,7 @@ date: 2023-02-27
 draft: false
 toc: true
 author: "Christina Kumar"
-images:
+images: ["/images/week-1/monday/overnight-oats.jpg", "/images/week-1/monday/lunch-cabbage-mince-rice.jpg", "/images/week-1/monday/salmon-sashimi.jpg", "/images/week-1/monday/snack-banana-peanut-butter.jpg", "/images/week-1/monday/lamb-shank-broth.jpg",   "/images/week-1/monday/carrot-juice.jpg",   ]
 tags:
   - "week 1"
   - "challenge-series"
@@ -25,8 +25,10 @@ Here's a summary of what I ate today:
 
 - Breakfast: Overnight oats with peanut butter and mixed berries.
 - Lunch: The lean mince, cabbage, capsicum and mushroom dish I prepared yesterday.
-- Dinner: Lamb shanks with broth.
-- Snacks: A full banana sliced up with peanut butter on each slice.
+- Dinner: Lamb shanks with broth and cauliflower.
+- Snacks: 
+  - A full banana sliced up with peanut butter on each slice (pre-workout snack).
+  - A glass of carrot juice (after dinner).
 - A little extra: I bought salmon sashimi today at work cos I was still hungry after lunch. 
 
 <a href="monday.md#reference">Go back to Table of Contents</a>
