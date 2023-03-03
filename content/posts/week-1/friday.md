@@ -20,12 +20,18 @@ I started off the day with a kickboxing session. It was hard work but also a bit
 
 <a href="friday.md#reference">Go back to Table of Contents</a>
 
+## Win of the day
+
+So, I've worked out how to add an image carousel to my pages!!!! That means I now have an easy way to add images to each of my challenge-series posts. I did use someone's else's script and tweaked it, but I'm still so happy.
+
+<a href="friday.md#reference">Go back to Table of Contents</a>
+
 ## Food
 Here's what I ate today:
 
 - Breakfast: My fave - Eggs and ricotta on toast.
 - Lunch: Lettuce, cherry tomato, beetroot and avocado salad with beef burger meat. And straight after, a small bowl of soba noodles with chilli-infused oil and soy sauce.
-- Dinner: Tempeh bolognese.
+- Dinner: Tempeh bolognese. Inspo from [this recipe](https://theplantbasedschool.com/tempeh-bolognese/) and a recipe from [Prana coach Darian's new cookbook](https://payhip.com/b/VHzcn?fbclid=PAAaZW9y1GzuvqT5BHCzRMExJliGxX1xLI1CSQqwOttVhwXzkE4KZph6bE9jU).
 - Snacks:
   - Yoghurt with blueberries and one blackberry (there was only one left).
   - An oatmeal-banana-choc chip cookie made by the wonderful Lisa.
