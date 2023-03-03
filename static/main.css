@@ -1,5 +1,5 @@
 img {
-    height: 20em;
+    height: 30em;
 }
 
 table {
@@ -18,4 +18,9 @@ tr {
 
 h2 {
     margin-top: 1em !important;
+}
+
+td {
+    border: none !important;
+    width: 100%;
 }

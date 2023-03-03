@@ -6,7 +6,10 @@ date: 2023-03-02
 draft: false
 toc: true
 author: "Christina Kumar"
-images: ["/images/pre-challenge/breakfast-prep.jpg", "/images/pre-challenge/community-run-pre-challenge.jpg", "/images/pre-challenge/grange-jetty-testing-coffee.jpg"]
+images: ["/images/week-1/thursday/breakfast-egg-ricotta-toast.jpg",
+"/images/week-1/thursday/lunch-mince-capsicum-cauliflower-salmon.jpg","/images/week-1/thursday/dinner-chicken-asparagus.jpg",
+"/images/week-1/thursday/snack-banana-peanut-butter.jpg",
+"/images/week-1/thursday/soba-noodles.jpg"]
 
 tags:
   - "week-1"
@@ -19,6 +22,10 @@ tags:
 
 I did Power today and it was pretty tough. After a block run and a 5 minute warm up, we did 3 rounds of 10 minutes worth exercise - an upper body pod, a lower body pod and a kettle bell pod. Exercises included things like renegade rows, commandos, lunges and sleds. After completing 1 round of exercises at a pod, we had to do a right corner run and then repeat the round until the 10 minutes was over. 
 I'm glad it's over haha but I feel like I got a lot out of today.
+
+|![A Power/HIIT class at Prana](/images/week-1/thursday/power.png)|
+|:-:|
+|A Power/HIIT class at Prana|
 
 <a href="thursday.md#reference" style="margin:0;">Go back to Table of Contents</a>
 
