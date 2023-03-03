@@ -6,7 +6,13 @@ date: 2023-03-03
 draft: false
 toc: true
 author: "Christina Kumar"
-images: 
+images: ["/images/week-1/friday/breakfast-egg-ricotta-toast.jpg",
+"/images/week-1/friday/lunch-burger-meat-salad.jpg",
+"/images/week-1/friday/lunch-soba-noodles.jpg",
+"/images/week-1/friday/dinner-tempeh-bolognese.jpg",
+"/images/week-1/friday/snack-banana-peanut-butter.jpg",
+"/images/week-1/friday/snack-oatmeal-banana-cookie.jpg",
+"/images/week-1/friday/snack-yoghurt-blueberries.jpg"]
 tags:
   - "week-1"
   - "challenge-series"
@@ -31,7 +37,7 @@ Here's what I ate today:
 
 - Breakfast: My fave - Eggs and ricotta on toast.
 - Lunch: Lettuce, cherry tomato, beetroot and avocado salad with beef burger meat. And straight after, a small bowl of soba noodles with chilli-infused oil and soy sauce.
-- Dinner: Tempeh bolognese. Inspo from [this recipe](https://theplantbasedschool.com/tempeh-bolognese/) and a recipe from [Prana coach Darian's new cookbook](https://payhip.com/b/VHzcn?fbclid=PAAaZW9y1GzuvqT5BHCzRMExJliGxX1xLI1CSQqwOttVhwXzkE4KZph6bE9jU).
+- Dinner: Tempeh bolognese with Vetta high-protein spaghetti and spinach. Inspo from [this recipe](https://theplantbasedschool.com/tempeh-bolognese/) and a recipe from [Prana coach Darian's new cookbook](https://payhip.com/b/VHzcn?fbclid=PAAaZW9y1GzuvqT5BHCzRMExJliGxX1xLI1CSQqwOttVhwXzkE4KZph6bE9jU).
 - Snacks:
   - Yoghurt with blueberries and one blackberry (there was only one left).
   - An oatmeal-banana-choc chip cookie made by the wonderful Lisa.
