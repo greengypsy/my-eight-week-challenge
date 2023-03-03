@@ -15,7 +15,11 @@ tags:
 
 ## Training
 
-Today, I did the Speed (20min) and lower body Lift (50min)n classes at Prana. For those of you that don't know, Speed is a cardio-based class with lots of bike work paired with either running or lifting medium weights. Lift is a strength-based class with a lot of heavy weights lifting. 
+Today, I did the Speed (20min) and lower body Lift (50min)n classes at Prana. For those of you that don't know, Speed is a cardio-based class with lots of bike work paired with either running or lifting medium weights. Lift is a strength-based class with a lot of heavy weights lifting. It was a tough one but I got it done.
+
+|![Me working hard in a Lift class](/images/week-1/monday/me-working-hard-lift.jpg)|
+|:-:|
+|I'm working hard (during Lift), I swear...|
 
 <a href="monday.md#reference">Go back to Table of Contents</a>
 
