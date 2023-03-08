@@ -35,8 +35,8 @@ Lift was 100% upper body strength exercises.
 I ate a lot today, as the following list shows:
 
 - Breakfast: Silken tofu-banana icecream from the [Fitchef cookbook](https://payhip.com/b/VHzcn?fbclid=PAAaZW9y1GzuvqT5BHCzRMExJliGxX1xLI1CSQqwOttVhwXzkE4KZph6bE9jU). It was delicious!
-- Lunch: sna
-- Dinner: 
+- Lunch: Chicken, ricotta and spinach sauce with Vetta high-fibre spaghetti and salad.
+- Dinner: Beef burger meat, mince, capsicum and mushroom with soba noodles.
 - Snack:
   - Baked potato.
   - Half a banana cut into slices with peanut butter.
