@@ -1,7 +1,7 @@
 ---
 slug: "week-2"
 week: "Week 2"
-title: "Wednesday, Day 910"
+title: "Wednesday, Day 10"
 date: 2023-03-08
 draft: false
 toc: true
