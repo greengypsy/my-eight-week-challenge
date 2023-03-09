@@ -7,11 +7,11 @@ draft: false
 toc: true
 author: "Christina Kumar"
 images: [
-"/images/week-2/thursday/breakfast-egg-ricotta-toast.jpg"
-"/images/week-2/thursday/breakfast-dessert-black-bean-cake.jpg"
-"/images/week-2/thursday/lunch-mince-capsicum-chickpeas.jpg"
+"/images/week-2/thursday/breakfast-egg-ricotta-toast.jpg",
+"/images/week-2/thursday/breakfast-dessert-black-bean-cake.jpg",
+"/images/week-2/thursday/lunch-mince-capsicum-chickpeas.jpg",
 "/images/week-2/wednesday/snack-banana-peanut-butter.jpg",
-"/images/week-2/thursday/dinner-chicken-cucumber-celery-avocado.jpg"
+"/images/week-2/thursday/dinner-chicken-cucumber-celery-avocado.jpg",
 "/images/week-2/thursday/after-dinner-soba-noodles.jpg"
 ]
 tags:
