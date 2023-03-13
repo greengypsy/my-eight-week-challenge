@@ -7,9 +7,13 @@ draft: false
 toc: true
 author: "Christina Kumar"
 images: [
-
 "/images/week-2/wednesday/snack-banana-peanut-butter.jpg",
-"/images/week-2/thursday/after-dinner-soba-noodles.jpg"
+"/images/week-2/friday/dessert-yoghurt-blackberries.jpg",
+"/images/week-2/friday/dinner-beef-broccoli-beans.jpg",
+"/images/week-2/friday/drink-carrot-juice.jpg",
+"/images/week-2/friday/lunch-chicken-spinach-cucumber.jpg",
+"/images/week-2/friday/snack-black-bean-cake.jpg",
+"/images/week-2/friday/snack-soba-noodles-avocado.jpg"
 ]
 tags:
   - "week-2"
@@ -22,7 +26,7 @@ Today, I did a kickboxing session in the morning and it was a spicy one. Still a
 
 Here's a few highlights:
 
-{{< video src="/videos/week-2/friday/week-2-friday-kickboxing.mp4" type="video/mp4" preload="auto" >}}
+{{< video src="/videos/week-2/friday/week-2-friday-kickboxing.mp4" type="video/mp4"  >}}
 
 Though it isn't really training, I walked for an hour today too.
 
