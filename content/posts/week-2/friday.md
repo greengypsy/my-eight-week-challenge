@@ -20,6 +20,10 @@ tags:
 
 Today, I did a kickboxing session in the morning and it was a spicy one. Still a bit sore from Lift on Wednesday and yesterday's core finisher but got the job done again. 
 
+Here's a few highlights:
+
+{{< video src="/videos/week-2/friday/week-2-friday-kickboxing.mp4" type="video/mp4" preload="auto" >}}
+
 Though it isn't really training, I walked for an hour today too.
 
 ## Food

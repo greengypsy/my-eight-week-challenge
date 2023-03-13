@@ -6,7 +6,7 @@ theme = "hello-friend-ng"
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
 
-paginate  = 10
+paginate  = 57
 rssLimit  = 10  # Maximum number of items in the RSS feed.
 
 googleAnalytics = "G-1DWVVXZVKZ"

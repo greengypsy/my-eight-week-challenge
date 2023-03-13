@@ -8,13 +8,11 @@
             <div class="content">{{ .Content }}</div>
         {{ end }}
 
-        {{ range $paginator.Pages.GroupByDate "2006" }}
+        {{ range site.Pages.GroupByParam "week" "desc"}}
             <div class="posts-group">
-            
-                <div class="post-year">Week 2</div>    
+                <div class="post-year">{{ .Key }}</div>    
                 <ul class="posts-list">
-                    {{ range .Pages }}
-                        {{ if eq .Params.week "Week 2"}}
+                    {{ range .Pages }}     
                         <li class="post-item">
                             <a href="{{.Permalink}}">
                                 <span class="post-title">{{.Title}}</span>
@@ -26,58 +24,10 @@
                                     {{ end }}
                                 </span>
                             </a>
-                        </li>
-                    {{ end }}
-                    {{ end }}
-                </ul>
-            </div>
-  
-            <div class="posts-group">
-           
-                <div class="post-year">Week 1</div>    
-                <ul class="posts-list">
-                    {{ range .Pages }}
-                        {{ if eq .Params.week "Week 1"}}
-                        <li class="post-item">
-                            <a href="{{.Permalink}}">
-                                <span class="post-title">{{.Title}}</span>
-                                <span class="post-day">
-                                    {{ if .Site.Params.dateformShort }}
-                                        {{ .Date.Format .Site.Params.dateformShort }}
-                                    {{ else }}
-                                        {{ .Date.Format "Jan 2"}}
-                                    {{ end }}
-                                </span>
-                            </a>
-                        </li>
-                       {{ end }}
+                        </li>         
                     {{ end }}
                 </ul>
             </div>
-            <div class="posts-group">
-            {{ if eq $title "Posts" }}
-                <div class="post-year">Week 0</div>    
-                    <ul class="posts-list">
-                        {{ range .Pages }}
-                            {{ if eq .Params.week "Pre-challenge"}}
-                            <li class="post-item">
-                                <a href="{{.Permalink}}">
-                                    <span class="post-title">{{.Title}}</span>
-                                    <span class="post-day">
-                                        {{ if .Site.Params.dateformShort }}
-                                            {{ .Date.Format .Site.Params.dateformShort }}
-                                        {{ else }}
-                                            {{ .Date.Format "Jan 2"}}
-                                        {{ end }}
-                                    </span>
-                                </a>
-                            </li>
-                        {{ end }}
-                        {{ end }}
-                    </ul>
-                </div>
-            {{ end }}
         {{ end }}
-    {{ partial "pagination-list.html" . }}
     </main>
 {{ end }}
