@@ -1,5 +1,5 @@
 img {
-    height: 20em;
+    height: 30em;
 }
 
 table {
@@ -19,3 +19,14 @@ tr {
 h2 {
     margin-top: 1em !important;
 }
+
+td {
+    border: none !important;
+    width: 100%;
+}
+
+.video-shortcode {
+    max-width: 100%;
+    height: auto;
+  }
+  

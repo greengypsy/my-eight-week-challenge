@@ -1,5 +1,4 @@
-/*document.addEventListener('DOMContentLoaded', function() {
-    
+document.onreadystatechange = function() {
   const carousels = document.querySelectorAll('.carousel');
   carousels.forEach(function( carousel ) {
 
@@ -45,7 +44,7 @@
           ele.scrollLeft = ele.querySelector(this.getAttribute('href')).offsetLeft;
       }
       
-      function nextSlide() {
+      const nextSlide = function() {
           if(!carousel.querySelector('ol li:last-child').classList.contains('selected')) {
               carousel.querySelector('ol li.selected').nextElementSibling.querySelector('a').click();
           } else {
@@ -53,7 +52,7 @@
           }
       }
 
-      function prevSlide() {
+      const prevSlide = function() {
           if(!carousel.querySelector('ol li:first-child').classList.contains('selected')) {
               carousel.querySelector('ol li.selected').previousElementSibling.querySelector('a').click();
           } else {
@@ -73,11 +72,11 @@
           if(e.key == 'ArrowRight') ele.classList.add('interacted');
       });
 
-      nextarrow.addEventListener("click", nextSlide());
+      nextarrow.addEventListener("click", nextSlide);
       nextarrow.addEventListener("mousedown", setInteracted);
       nextarrow.addEventListener("touchstart", setInteracted);
 
-      prevarrow.addEventListener("click", prevSlide());
+      prevarrow.addEventListener("click", prevSlide);
       prevarrow.addEventListener("mousedown", setInteracted);
       prevarrow.addEventListener("touchstart", setInteracted);
 
@@ -98,15 +97,14 @@
     
     
   }); //end foreach
+}
 
-}); //end onload
 
-**/
 /**
 * Debounce functions for better performance
 * (c) 2021 Chris Ferdinandi, MIT License, https://gomakethings.com
 * @param  {Function} fn The function to debounce
-
+*/
 function debounce (fn) {
 // Setup a timer
 let timeout;
@@ -125,4 +123,3 @@ return function () {
   });
 };
 }
-*/
