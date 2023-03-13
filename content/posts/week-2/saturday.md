@@ -6,8 +6,10 @@ date: 2023-03-11
 draft: false
 toc: true
 author: "Christina Kumar"
-images: [
-
+images: [ "/images/week-2/saturday/breakfast-egg-ricotta-toast.jpg",
+"/images/week-2/saturday/lunch-quinoa-salad.jpg",
+"/images/week-2/saturday/dinner-cajun-spiced-chicken.jpg",
+"/images/week-2/saturday/snack-chickpea-strawberry.jpg"
 ]
 tags:
   - "week-2"
@@ -18,6 +20,10 @@ tags:
 ## Training
 
 I did a HIIT class at 8:15. There were three pods (sets) worth of exercises and a corner run after each set. I think I did ok. I really tried to push myself on the corner runs so I can improve my time for the 2.8k run.
+
+|![Saturday HIIT class](/images/week-2/saturday/hiit-workout.png)|
+|:-:|
+|Saturday HIIT class|
 
 ## Food
 
