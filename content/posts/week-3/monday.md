@@ -16,13 +16,12 @@ tags:
 
 ## Training
 
-Today, I did the Public Holiday class which was a bit of the usual torture.
-
+Another day, another torturous HIIT class. But it got done. Enough said :).
 
 ## Food
 
 - Breakfast: Banana slices with peanut butter.
 - Lunch: Beef burger meat with quinoa, cabbage, cucumber and beetroot. And a little piece of airfryed salmon.
 - Afternoon snack: Toast with butter.
-- Dinner: TBA
+- Dinner: Chicken, red rice and steamed cauliflower.
 
