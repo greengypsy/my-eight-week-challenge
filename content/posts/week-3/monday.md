@@ -6,8 +6,12 @@ date: 2023-03-13
 draft: false
 toc: true
 author: "Christina Kumar"
-images: [
-
+images: ["/images/week-3/monday/beef-burger-quinoa-salad.jpg",
+"/images/week-3/monday/cauliflower-red-rice.jpg",
+"/images/week-3/monday/peanut-butter-banana.jpg",
+"/images/week-3/monday/salmon.jpg",
+"/images/week-3/monday/toast-butter.jpg",
+"/images/week-3/monday/yoghurt-strawberries.jpg"
 ]
 tags:
   - "week-3"
@@ -28,5 +32,7 @@ Today, I ate:
 - Breakfast: Banana slices with peanut butter.
 - Lunch: Beef burger meat with quinoa, cabbage, cucumber and beetroot. And a little piece of airfryed salmon.
 - Afternoon snack: Toast with butter.
+- Another afternoon snack: Yoghurt and strawberries.
 - Dinner: Chicken, red rice and steamed cauliflower.
+- Dessert: Chickpea nutella with strawberries.
 

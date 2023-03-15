@@ -6,7 +6,10 @@ date: 2023-03-14
 draft: false
 toc: true
 author: "Christina Kumar"
-images: [
+images: [ "/images/week-3/tuesday/cauliflower-cucumber-quinoa-chicken.jpg",
+"/images/week-3/tuesday/quinoa-mince-salad.jpg",
+"/images/week-3/tuesday/soba-noodles.jpg",
+"/images/week-3/tuesday/yoghurt-strawberries.jpg"
 
 ]
 tags:
@@ -25,7 +28,7 @@ I'm going to declare upfront that today was a really bad day. I started off well
 
 Anyway, you know the drill:
 
-- Breakfast:
-- Lunch:
-- Dinner:
+- Breakfast: Scrambled egg with ricotta.
+- Lunch: Mince and quinoa salad.
+- Dinner: Cajun spiced chicken, quinoa, cauliflower and cucumber salad.
 - Post-dinner: What was meant to be one sausage ended up being four. Oh well...
