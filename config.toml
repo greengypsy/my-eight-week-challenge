@@ -11,6 +11,7 @@ rssLimit  = 10  # Maximum number of items in the RSS feed.
 
 googleAnalytics = "G-1DWVVXZVKZ"
 # disqusShortname = ""
+# https://www.analyticsmania.com/post/track-html5-video-player-with-google-analytics-4-and-google-tag-manager/#dlv-custom-event
 
 archetypeDir = "archetypes"
 contentDir   = "content"
