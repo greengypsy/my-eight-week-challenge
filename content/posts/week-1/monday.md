@@ -8,7 +8,7 @@ toc: true
 author: "Christina Kumar"
 images: ["/images/week-1/monday/overnight-oats.jpg", "/images/week-1/monday/lunch-cabbage-mince-rice.jpg", "/images/week-1/monday/salmon-sashimi.jpg", "/images/week-1/monday/snack-banana-peanut-butter.jpg", "/images/week-1/monday/lamb-shank-broth.jpg",   "/images/week-1/monday/carrot-juice.jpg",   ]
 tags:
-  - "week 1"
+  - "week-1"
   - "challenge-series"
 ---
 <span id="reference"></span>
