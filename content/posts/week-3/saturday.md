@@ -7,7 +7,11 @@ draft: false
 toc: true
 author: "Christina Kumar"
 images: [
-
+"/images/week-3/saturday/bread-egg-ricotta.jpg",
+"/images/week-3/saturday/chaga-chocolate.jpg",
+"/images/week-3/saturday/dumplings.jpg",
+"/images/week-3/saturday/soba-noodles-mince-salad.jpg",
+"/images/week-3/saturday/sweet-potato-fudge.jpg"
 ]
 tags:
   - "week-3"
