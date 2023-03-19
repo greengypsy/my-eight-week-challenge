@@ -7,7 +7,14 @@ draft: false
 toc: true
 author: "Christina Kumar"
 images: [
+"/images/week-3/friday/banana-peanut-butter.jpg",
+"/images/week-3/friday/fish.jpg",
+"/images/week-3/friday/mince-quinoa-salad.jpg",
 
+"/images/week-3/friday/soba-noodles-beans-chicken.jpg",
+"/images/week-3/friday/sweet-potato-fudge.jpg",
+"/images/week-3/friday/toast-egg-ricotta.jpg",
+"/images/week-3/friday/yoghurt-strawberries.jpg"
 ]
 tags:
   - "week-3"
@@ -17,6 +24,8 @@ tags:
 ## Training
 
 Today is Friday which means kickboxing in the morning + a nice core finisher. It also means a block run for a warm up which I timed today on Strava (4:13/0.72m). Not bad for a warm up. Overall, it was a pretty good session - I"m pretty happy with my efforts today.
+
+{{< video src="/videos/week-3/friday/pt-core.mp4" type="video/mp4"  >}}
 
 ## Food
 
