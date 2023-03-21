@@ -33,8 +33,8 @@
             </div>
         {{ end }}
         {{ end }}
-        {{ $weektags := slice  "pre-challenge" "week-1" "week-2" "week-3" }}
-        {{ $weektitles := slice "Pre-challenge" "Week 1" "Week 2" "Week 3"}}
+        {{ $weektags := slice  "pre-challenge" "week-1" "week-2" "week-3" "week-4"}}
+        {{ $weektitles := slice "Pre-challenge" "Week 1" "Week 2" "Week 3" "Week 4"}}
         {{ range $index, $val := $weektags }}
             {{ if eq $title $val }}
             {{ range site.Pages.GroupByParam "week" "desc"}}
