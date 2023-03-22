@@ -27,3 +27,4 @@ I ate:
 - Post-training extra: Almond milk with a little bit of protein powder and chia seeds just so I can hit my protein target for the day.
 
 Overall, another good day. In three and a half weeks, I've managed to shave off 2 kilos (hopefully of fat). Here's hoping I can keep that up.
+
